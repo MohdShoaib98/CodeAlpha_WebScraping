@@ -1,4 +1,4 @@
-# CodeAlpha Web Scraping  🕸️
+# CodeAlpha Internship TASK_1 Web Scraping  🕸️
 
 ## 📌 Project Overview
 This Python project was developed as part of **Task 1 – Web Scraping** for the **CodeAlpha internship**. It automates the collection of remote job listings from **RemoteOK** across multiple categories, including **Development, Design, Marketing, Writing, and Sales**.
